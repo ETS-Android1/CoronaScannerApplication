@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoronaScanner</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="the_person_s_name">The person\'s name</string>
+</resources>
